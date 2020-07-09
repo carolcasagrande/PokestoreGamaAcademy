@@ -1,0 +1,36 @@
+.Navbar {
+    background: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.img-logo{
+    width: 25%;
+}
+
+input{
+    width: 80%;
+    height: 40px;
+    padding: 10px;
+    border-radius: 8px;
+    margin-right: 10px;
+    }
+
+.button-carrinho{
+    width: 60px;
+    height: 60px;
+   /* margin-right: 50px;*/
+    background-color: red;
+    border-radius: 8px;
+    border: transparent;
+}
+
+.img-carrinho{
+    width: 70px;
+    height: 60px;    
+}
+
+
+
